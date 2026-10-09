@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "maps": [
+    {
+      "id": "battlefield-of-eternity",
+      "name": "Battlefield of Eternity",
+      "category": "Battleground",
+      "gameBuild": 98348,
+      "tool": "heroes-capture 0.0.0-dev",
+      "structures": "elements",
+      "path": "battlefield-of-eternity/",
+      "pack": "battlefield-of-eternity/pack.json",
+      "thumbnail": { "file": "battlefield-of-eternity/thumbnail.webp", "size": [512, 369] }
+    }
+  ]
+}

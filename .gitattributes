@@ -1,0 +1,5 @@
+# The packs' pictures and tiles: never diffed or merged as text
+*.pmtiles binary
+*.webp binary
+*.png binary
+*.jpg binary

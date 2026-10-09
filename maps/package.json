@@ -1,0 +1,10 @@
+{
+  "name": "@myrddraall/heroes-maps",
+  "version": "0.0.0-MAIN",
+  "private": true,
+  "description": "The map packs heroes-capture rendered, one folder per map, and their catalog (index.json)",
+  "type": "module",
+  "scripts": {
+    "github.actions.pack": "gitflow pack"
+  }
+}

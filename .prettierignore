@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+.wireit/
+# The packs, exactly as heroes-capture wrote them
+maps/*/
+pnpm-lock.yaml
