@@ -10,7 +10,7 @@
       "structures": "elements",
       "path": "battlefield-of-eternity/",
       "pack": "battlefield-of-eternity/pack.json",
-      "thumbnail": { "file": "battlefield-of-eternity/thumbnail.webp", "size": [512, 369] }
+      "thumbnail": { "file": "battlefield-of-eternity/thumbnail.webp", "size": [512, 368] }
     }
   ]
 }
