@@ -100,8 +100,8 @@ async function openPack() {
 
 (async () => {
   const { pack, archive, url } = await openPack();
-  if (pack.format !== 1) {
-    statusEl.textContent = `This viewer reads pack format 1; this pack is format ${pack.format}.`;
+  if (pack.format !== 2) {
+    statusEl.textContent = `This viewer reads pack format 2; this pack is format ${pack.format}.`;
     return;
   }
   document.title = pack.map.name;
