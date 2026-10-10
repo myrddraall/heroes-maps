@@ -15,13 +15,13 @@ here exactly as heroes-capture wrote them. Nothing builds them, and nothing zips
 
 ## Layout
 
-| Path              | What it is                                                                   |
-| ----------------- | ---------------------------------------------------------------------------- |
-| `maps/<map id>/`  | One map's pack                                                               |
-| `maps/index.json` | The catalog: per map its id, name, game build, heroes-capture version, paths |
-| `index.html`      | The home page, listing the catalog's maps                                    |
-| `tools/`          | `add.map` and `generate.catalog`                                             |
-| `.nojekyll`       | Pages serves every file as-is                                                |
+| Path              | What it is                                                                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `maps/<map id>/`  | One map's pack                                                                                                                                         |
+| `maps/index.json` | The catalog: per map its id, name, game build, heroes-capture version, pack format (`packFormat`, so a viewer lists only the packs it can read), paths |
+| `index.html`      | The home page, listing the catalog's maps                                                                                                              |
+| `tools/`          | `add.map` and `generate.catalog`                                                                                                                       |
+| `.nojekyll`       | Pages serves every file as-is                                                                                                                          |
 
 Paths in the catalog are relative to the catalog itself (`maps/`).
 
