@@ -22,6 +22,7 @@ export async function writeCatalog() {
       category: pack.map.category ?? null,
       gameBuild: pack.gameBuild,
       tool: pack.tool,
+      packFormat: pack.format,
       structures: pack.map.structures ?? null,
       path: `${id}/`,
       pack: `${id}/pack.json`,
