@@ -72,3 +72,21 @@ map. Re-render only when a game patch or heroes-capture's output changes a map.
 | `pnpm run generate.catalog` | Rewrites `maps/index.json` from the packs           |
 | `pnpm format`               | syncpack format and prettier                        |
 | `pnpm check`                | Dependency versions and syncpack consistency        |
+
+## Legal
+
+heroes-maps is a free, non-commercial fan project. It is not affiliated with, endorsed,
+sponsored or approved by Blizzard Entertainment.
+
+Heroes of the Storm is a trademark of Blizzard Entertainment, Inc., in the U.S. and/or other
+countries. Blizzard Entertainment is a trademark or registered trademark of Blizzard
+Entertainment, Inc., in the U.S. and/or other countries. All other trademarks are the property
+of their respective owners. Blizzard's own notices are on its
+[copyright notices page](https://www.blizzard.com/en-us/legal/9c9cb70b-d1ed-4e17-998a-16c6df46be7b/copyright-notices).
+
+The map pictures in `maps/` are renders of Heroes of the Storm's maps, made from the game with
+[heroes-capture](https://github.com/myrddraall/heroes-capture). They belong to Blizzard
+Entertainment, Inc.
+
+The code is MIT licensed: see [LICENSE](LICENSE). The licence covers this project's own code,
+not Blizzard's game content.
