@@ -7,10 +7,35 @@
       "category": "Battleground",
       "gameBuild": 98348,
       "tool": "heroes-capture 0.0.0-dev",
+      "packFormat": 6,
       "structures": "elements",
       "path": "battlefield-of-eternity/",
       "pack": "battlefield-of-eternity/pack.json",
       "thumbnail": { "file": "battlefield-of-eternity/thumbnail.webp", "size": [512, 369] }
+    },
+    {
+      "id": "dragon-shire",
+      "name": "Dragon Shire",
+      "category": "Battleground",
+      "gameBuild": 98348,
+      "tool": "heroes-capture 0.0.0-dev",
+      "packFormat": 6,
+      "structures": "elements",
+      "path": "dragon-shire/",
+      "pack": "dragon-shire/pack.json",
+      "thumbnail": { "file": "dragon-shire/thumbnail.webp", "size": [512, 366] }
+    },
+    {
+      "id": "punisher-arena",
+      "name": "Punisher Arena",
+      "category": "Arena",
+      "gameBuild": 98348,
+      "tool": "heroes-capture 0.0.0-dev",
+      "packFormat": 6,
+      "structures": "elements",
+      "path": "punisher-arena/",
+      "pack": "punisher-arena/pack.json",
+      "thumbnail": { "file": "punisher-arena/thumbnail.webp", "size": [512, 262] }
     }
   ]
 }
