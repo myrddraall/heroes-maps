@@ -14,6 +14,18 @@
       "thumbnail": { "file": "battlefield-of-eternity/thumbnail.webp", "size": [512, 369] }
     },
     {
+      "id": "cursed-hollow",
+      "name": "Cursed Hollow",
+      "category": "Battleground",
+      "gameBuild": 98348,
+      "tool": "heroes-capture 0.0.0-dev",
+      "packFormat": 6,
+      "structures": "elements",
+      "path": "cursed-hollow/",
+      "pack": "cursed-hollow/pack.json",
+      "thumbnail": { "file": "cursed-hollow/thumbnail.webp", "size": [512, 379] }
+    },
+    {
       "id": "dragon-shire",
       "name": "Dragon Shire",
       "category": "Battleground",
